@@ -1,5 +1,4 @@
 # Simple-processing
-# Simple-processing
 Script de ejemplo de pyspark streaming. El script muestra en consola el conteo de palabras recibidas a través de un socket.
 
 #### Instalación:
